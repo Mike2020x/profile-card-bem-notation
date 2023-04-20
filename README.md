@@ -49,7 +49,7 @@ This is a solution to the  Profile Card - BEM project of the Make It Real course
 
 ### Useful resources
 
-- [Resource 1](https://getbem.com/introduction/) - This is an amazing article which helped me finally understand CSS variables. I'd recommend it to anyone still learning this concept.
+- [Resource 1](https://getbem.com/introduction/) - This is an amazing article which helped me finally understand BEM. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
