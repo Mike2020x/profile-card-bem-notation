@@ -4,7 +4,7 @@ This is a solution to the  Profile Card - BEM project of the Make It Real course
 
 ## Table of contents
 
-- [Make It Real -  404 Profile Card - BEM](#make-it-real- Profile Card - BEM)
+- [Make It Real -  404 Profile Card - BEM](# Make It Real - Profile Card - BEM)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
